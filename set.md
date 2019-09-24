@@ -12,6 +12,8 @@
 ![交并补](https://i.loli.net/2019/09/24/TmVySpsEFLG1g6I.png)
 ### 相减 & 对称差
 ![相减 & 对称差](https://i.loli.net/2019/09/24/6wVPY2qAu8MZpQt.png) </br></br>
+### 相乘（笛卡尔积） </br></br>
+![相乘](https://i.loli.net/2019/09/24/nAQD2gfPRJF6q4Z.png)
 
 # 形式语言
 ∑：符号表　　　　e.g.∑ ＝ {a,b,c,...,z} </br></br>
