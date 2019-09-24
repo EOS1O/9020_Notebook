@@ -4,6 +4,8 @@
 子集：subset = {1},{1,3},{1,3,5,77}　　　　　　子集包括全集和空集 </br></br>
 真子集：proper subset = {1},{1,3}　　　　 　　　A是B的真子集：A包含于B，但A不等于B </br></br>
 幂集：Power set Pow(X ) = {A : A ⊆ X }　　　　　集合的所有子集，包括空集和全集　</br></br>
+基数：cardinality　　　　　　　　　　　　　　　　　集合中元素的个数 </br></br>
+![基数](https://i.loli.net/2019/09/24/dEaLXjBmxcGOt5V.png)
 
 ## 集合间运算
 ### 交并补
