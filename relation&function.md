@@ -1,11 +1,16 @@
 # · 关系
+---
 从数学的角度来说，关系是笛卡儿的子集，就是一个二维表，还可以是一个矩阵，一个有向图
 ![关系](https://i.loli.net/2019/09/26/XKIO2SvLu3iUqzf.png)</br></br>
+</br></br>
 # · 关系的逆
+---
 ![1](https://i.loli.net/2019/09/26/T17oxHewnpqIsPX.png)</br></br>
 ![2](https://i.loli.net/2019/09/26/qYvk31PZAwgzKQb.png)</br></br>
 ![3](https://i.loli.net/2019/09/26/iGLcPyxaFkfZqr4.png)</br></br>
+</br></br>
 # · Functions
+---
 ![4](https://i.loli.net/2019/09/26/9QT1VSeKNx6BMud.png)</br></br>
 ![5](https://i.loli.net/2019/09/26/h698IEPGdZNaADk.png)</br></br>
 ![6](https://i.loli.net/2019/09/26/QcbYhxzaJsgVydM.png)</br></br>
