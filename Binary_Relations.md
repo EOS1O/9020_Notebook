@@ -12,7 +12,11 @@
 　　·对称
 　　·传递
 　　则称R为等价关系 </br></br>
- 等价类：
+ ![1](https://i.loli.net/2019/10/07/hGHDEA7XLImfTO1.png)
+ ![1](https://i.loli.net/2019/10/07/qHBtCVmgT5RUnAp.png)
+ ![1](https://i.loli.net/2019/10/07/BVdPTc9y1Uz2eZE.png)
+ ![1](https://i.loli.net/2019/10/07/CX8B9LuxOpSFbHq.png)
+ ![1](https://i.loli.net/2019/10/07/VWcRI7Si69BMypO.png)
 
 
 
