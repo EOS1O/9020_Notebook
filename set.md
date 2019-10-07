@@ -18,5 +18,7 @@
 # 形式语言
 ∑：符号表　　　　e.g.∑ ＝ {a,b,c,...,z} </br></br>
 λ: 空值 </br></br>
-![Language](https://i.loli.net/2019/09/24/iDvxw98d2PyRsNU.png)
+![Language](https://i.loli.net/2019/09/24/iDvxw98d2PyRsNU.png) </br></br>
 
+# 集合间的运算
+![运算](https://i.loli.net/2019/10/07/HU4fKMbkE7tqXxP.jpg)
