@@ -6,6 +6,13 @@
 ![1](https://i.loli.net/2019/10/07/BqfPb7eHNMpTKvr.png)</br></br>
 ## 基本性质
 ![2](https://i.loli.net/2019/10/07/pbIuw1QJfdB6GhT.png)</br></br>
+## 等价关系&等价类
+等价关系：设R是定义在集合A上的关系，若R
+　　·自反
+　　·对称
+　　·传递
+　　则称R为等价关系 </br></br>
+ 等价类：
 
 
 
