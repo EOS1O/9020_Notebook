@@ -23,5 +23,5 @@
 # · Big-O 
 ![12](https://i.loli.net/2019/10/14/xbwLCvFVaAMe29I.png)</br></br>
 # · logn运算
-通常认为logn为 $$log_2^n$$
+通常认为logn为log2n,ln为logen
 ![13](https://i.loli.net/2019/10/14/ztl5qrCgVeSn9dG.png)
