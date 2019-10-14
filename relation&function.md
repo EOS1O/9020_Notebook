@@ -19,3 +19,7 @@
 ![9](https://i.loli.net/2019/09/26/JZB5KaN34n8GudX.png)</br></br>
 ![10](https://i.loli.net/2019/09/26/KeZ7xvUaAkzV9do.png)</br></br>
 ![11](https://i.loli.net/2019/09/26/MkujD9Ko4gqtziQ.png)</br></br>
+
+# · Big-O & logn运算
+![12](https://i.loli.net/2019/10/14/xbwLCvFVaAMe29I.png)
+![13](https://i.loli.net/2019/10/14/ztl5qrCgVeSn9dG.png)
