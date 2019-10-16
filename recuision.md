@@ -6,6 +6,6 @@
 ·展开　　·Big-O估算　　·主理论
 ![1](https://i.loli.net/2019/10/16/olCUEWmQrKakfBM.png)</br></br>
 ### 主理论 </br></br>
-实际做题时，需将a,b,c,d,k替换成相应常数
+实际做题时，需将a,b,c,d,k替换成相应常数 </br></br>
 ![1](https://i.loli.net/2019/10/16/q5upS78Lk3TiBdU.png)
 ![1](https://i.loli.net/2019/10/16/j6AhMTtR3ivnXqp.png)
