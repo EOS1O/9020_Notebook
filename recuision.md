@@ -1,0 +1,9 @@
+# 递归
+## 基本格式
+![1](https://i.loli.net/2019/10/16/vMdOzbA9SsYZexQ.png)
+
+## 处理死循环的三种方式
+·展开　　·Big-O估算　　·主理论
+![1](https://i.loli.net/2019/10/16/olCUEWmQrKakfBM.png)</br></br>
+### 主理论
+
